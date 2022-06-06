@@ -19,6 +19,11 @@ The algorithm is dividen into 3 steps :
 2) Influence Maximization Solution (Influence Maximization and Clustering Problem approach = REDCHANGE) (files : red_change.py)
 3) Statistics ans Storage Data (Create Statistics of the HIV knowledge per Country with charts and save the updated dataset) (files : save_results.py)
 
+## Datasets :
+Are placed in the Datasets folders :
+1) HIV_Dataset_1_Center.csv which contains 210 subjects from only 1 drop-in center
+2) HIV_Dataset_2_Centers.csv with subjects from 3 different drop-in centers
+
 ## Running the Experiments :
 
 In order to run the application :
