@@ -37,12 +37,14 @@ So be aware if you want to test the effectiveness of the solutions without compu
 ## Results :
 
 At the end of each running the resulting Statistics and Updated Datasets for every drop-in centers are found in the folder Results.
-You can also find some old results always from that folder : 
+You can also find some old results from Old Results folder : 
 
 ### Statistics files from drop-in center : "1" , "2" , "None" derived the 05/06/2022
 1) chart_pie_1_2022_6_5 in the Excel format
 2) chart_pie_2_2022_6_5 in the Excel format
 3) chart_pie_None_2022_6_5 in the Excel format
+
+The CSV results are the datasets to be used for next selections of the peer leaders , in fact our application consider also the last intervention informations of each subjects.
 
 ### Updated datasets for drop-in center : "1" , "2" , "None" derived the 06/06/2022
 1) data_1_2022_6_6 in the CSV and Excel format
