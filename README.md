@@ -22,9 +22,8 @@ The algorithm is dividen into 3 steps :
 ## Running the Experiments :
 
 In order to run the application :
-
-1) Install the requirement packages from the requirements.txt
-2) Open the Terminal 
+1) Open the Terminal
+2) Install the requirement packages from the requirements.txt by run this command : pip install -r requirements.txt , remember to specify the path of the      requirement.txt
 3) Run it with the following command : python main.py "path_to_one_of_the_datasets" number of partition (e.g python main.py "/Datasets/HIV_Dataset_2_Centers.csv" 2)
 
 ## Computational Time
