@@ -41,13 +41,13 @@ At the end of each running the resulting Statistics and Updated Datasets for eve
 You can also find some old results always from that folder : 
 
 ### Statistics files from drop-in center : "1" , "2" , "None" derived the 05/06/2022
-1) chart_pie_1_2022_6_5
-2) chart_pie_2_2022_6_5
-3) chart_pie_None_2022_6_5
+1) chart_pie_1_2022_6_5 in the Excel format
+2) chart_pie_2_2022_6_5 in the Excel format
+3) chart_pie_None_2022_6_5 in the Excel format
 
 ### Updated datasets for drop-in center : "1" , "2" , "None" derived the 06/06/2022
-1) data_1_2022_6_6
-2) data_2_2022_6_6
-3) data_None_2022_6_6
+1) data_1_2022_6_6 in the CSV and Excel format
+2) data_2_2022_6_6 in the CSV and Excel format
+3) data_None_2022_6_6 in the CSV and Excel format
 
 
